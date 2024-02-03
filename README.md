@@ -12,7 +12,7 @@ The Commands to which Ruby responds are :
     What's the time?
     What's the date?
     What's your name?
-    According to wikipedia ("any term", say Pondicherry University)
+    According to wikipedia ("any term", say Virat Kohli)
     Open Stackoverflow.
     Click Photo.
     Record Video.
@@ -23,3 +23,4 @@ The Commands to which Ruby responds are :
     Open Anaconda.
     Thank You.
 Note : Also remember to have a fast and secured internet connection to make this run. Because it is using google speech recognition api to understand the commands.
+Contact me: mbox.shashank@gmail.com
